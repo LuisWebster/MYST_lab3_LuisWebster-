@@ -1,4 +1,4 @@
-.# MYST_lab3_LuisWebster
+MYST_lab3_LuisWebster
 
 Análisis Técnico - Oscilador Estocástico
 
